@@ -1,2 +1,7 @@
-# hello-springdata
-A hello Spring Data demo with Spring Data JPA, Gradle, Java, tutorial by @spring.io
+# A hello Spring Data Rest demo with Spring HATEOAS, Spring Data JPA, Gradle, Java, tutorial by @spring.io
+
+# Credits
+
+**Tutorial by @spring.io**
+
+[Accessing JPA Data with REST](https://spring.io/guides/gs/accessing-data-rest/)

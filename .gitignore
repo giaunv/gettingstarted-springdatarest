@@ -1,8 +1,30 @@
-.gradle
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+*.sw?
+.#*
+*#
+*~
+*.sublime-*
+
+# Build Artifacts
+
+.gradle/
 build/
+target/
+bin/
+dependency-reduced-pom.xml
 
-# Ignore Gradle GUI config
-gradle-app.setting
+# Eclipse Project Files
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA Files
+
+*.iml
+*.ipr
+*.iws
+*.idea

@@ -1,4 +1,4 @@
-# A hello Spring Data Rest demo with Spring HATEOAS, Spring Data JPA, Gradle, Java, tutorial by @spring.io
+# Getting started Spring Data Rest with Spring HATEOAS, Spring Data JPA, Gradle, Java, tutorial by @spring.io
 
 # Credits
 
